@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ece3569-868c-4cba-9104-c513a2e12d6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
@@ -31,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -61,22 +60,34 @@
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state x="0" y="125" width="800" height="677" key="#Notifications/0.27.1600.873@0.27.1600.873" timestamp="1581074644336" />
+    <state x="395" y="124" width="800" height="677" key="#Vim_Emulation" timestamp="1581091875275">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="395" y="124" width="800" height="677" key="#Vim_Emulation/0.27.1600.873@0.27.1600.873" timestamp="1581091875275" />
     <state x="258" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581074621230">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state x="258" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1600.873@0.27.1600.873" timestamp="1581074621230" />
-    <state x="499" y="267" width="591" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581075375962">
+    <state x="499" y="267" width="601" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581091843560">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
-    <state x="499" y="267" width="591" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1600.873@0.27.1600.873" timestamp="1581075375962" />
-    <state x="0" y="98" key="SettingsEditor" timestamp="1581074025317">
+    <state x="499" y="267" width="601" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1600.873@0.27.1600.873" timestamp="1581091843560" />
+    <state x="483" y="190" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581091924848">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
-    <state x="0" y="98" key="SettingsEditor/0.27.1600.873@0.27.1600.873" timestamp="1581074025317" />
-    <state x="51" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1581052162238">
+    <state x="483" y="190" width="624" height="544" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1600.873@0.27.1600.873" timestamp="1581091924848" />
+    <state x="383" y="199" width="824" height="526" key="IDE.errors.dialog" timestamp="1581091897413">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
-    <state x="51" y="291" key="com.intellij.ide.util.TipDialog/0.27.1600.873@0.27.1600.873" timestamp="1581052162238" />
+    <state x="383" y="199" width="824" height="526" key="IDE.errors.dialog/0.27.1600.873@0.27.1600.873" timestamp="1581091897413" />
+    <state x="0" y="98" key="SettingsEditor" timestamp="1581092003675">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="0" y="98" key="SettingsEditor/0.27.1600.873@0.27.1600.873" timestamp="1581092003675" />
+    <state x="51" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1581092030805">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="51" y="291" key="com.intellij.ide.util.TipDialog/0.27.1600.873@0.27.1600.873" timestamp="1581092030805" />
     <state x="158" y="383" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580818005380">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
