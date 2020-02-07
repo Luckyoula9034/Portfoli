@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ece3569-868c-4cba-9104-c513a2e12d6e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/Contact.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/Project.css" beforeDir="false" afterPath="$PROJECT_DIR$/Project.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/About.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/About.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contact.css" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/Contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="portfolio" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +31,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,6 +53,26 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="395" y="124" width="800" height="677" key="#HTML" timestamp="1581075219815">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="395" y="124" width="800" height="677" key="#HTML/0.27.1600.873@0.27.1600.873" timestamp="1581075219815" />
+    <state x="0" y="125" width="800" height="677" key="#Notifications" timestamp="1581074644336">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="0" y="125" width="800" height="677" key="#Notifications/0.27.1600.873@0.27.1600.873" timestamp="1581074644336" />
+    <state x="258" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581074621230">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="258" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1600.873@0.27.1600.873" timestamp="1581074621230" />
+    <state x="499" y="267" width="591" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581075375962">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="499" y="267" width="591" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1600.873@0.27.1600.873" timestamp="1581075375962" />
+    <state x="0" y="98" key="SettingsEditor" timestamp="1581074025317">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="0" y="98" key="SettingsEditor/0.27.1600.873@0.27.1600.873" timestamp="1581074025317" />
     <state x="51" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1581052162238">
       <screen x="0" y="27" width="1600" height="873" />
     </state>
@@ -62,5 +81,13 @@
       <screen x="0" y="27" width="1600" height="873" />
     </state>
     <state x="158" y="383" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1600.873@0.27.1600.873" timestamp="1580818005380" />
+    <state x="463" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1581074251432">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="463" y="212" width="672" height="678" key="search.everywhere.popup/0.27.1600.873@0.27.1600.873" timestamp="1581074251432" />
+    <state x="925" y="376" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1581074984739">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="925" y="376" width="540" height="172" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.27.1600.873@0.27.1600.873" timestamp="1581074984739" />
   </component>
 </project>
