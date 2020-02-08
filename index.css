@@ -37,11 +37,10 @@ li a:hover {
     margin: 0px;
     padding: 0px;
     }
-    body{
-    background-image:url("https://bit.ly/3beUiUP")
+    
 
 
-}
+
 a:hover:not(.active){
 float:left;
 color:gold;
@@ -53,4 +52,34 @@ font-family:fantasy;
 color:gold;
 text-shadow:2px 2px 15px ;
 font-style:italic;
+}
+*{
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+}
+header{
+    height: 100px;
+    width: 100%;
+    
+    position: fixed;
+}
+main{
+    height: 700px;
+    width: 100%;
+  background-image:url(https://ik.imagekit.io/houseofcoders/wp-content/uploads/2017/10/portfolio-background.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+section{
+    height: 400px;
+    width: 100%;
+    background-color: chocolate;
+}
+footer{
+    height: 300px;
+    width: 100%;
+    background-color: crimson;
 }
