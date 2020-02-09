@@ -1,17 +1,18 @@
-    ul {
+   .one ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
+    background-color: black;
 
     box-shadow: 2px 2px 15px gold;
 }
 
-li {
+.one li {
     float: right;
 }
 
-li a {
+.one li a {
     display: inline-block;
     color: white;
     padding: 16px 20px;
@@ -19,7 +20,7 @@ li a {
     text-align: center;
 }
 
-li a:hover {
+.one li a:hover {
     background-color:white;
 
 }
@@ -53,11 +54,20 @@ top: 60%;
 left: 60%;
 transform: translate(-60%,-60%);
 }
+h2{
+    
+    text-align:center;
+    font-size:70px;
+    font-family:fantasy;
+    
+
+}
 *{
     margin-top: 0;
     margin-left: 0;
     margin-right: 0;
     margin-bottom: 0;
+    scroll-behavior: smooth;
 }
 header{
     height: 100px;
@@ -66,20 +76,60 @@ header{
     position: fixed;
 }
 main{
-    height: 700px;
+    height: 400px;
     width: 100%;
   background-image:url(https://ik.imagekit.io/houseofcoders/wp-content/uploads/2017/10/portfolio-background.png);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
-section{
-    height: 400px;
+ section{
+    height: 600px;
     width: 100%;
-    background-color: chocolate;
+    background-image: url(https://bit.ly/2HbLGAk);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+    
 }
-footer{
-    height: 300px;
+.fifth{
+    height: 800px;
     width: 100%;
     background-color: crimson;
 }
+p{ position: relative;
+    text-align:center;
+    font-size:20px;
+    font-family:fantasy;
+
+}
+img{
+    width: 450px;
+    height: 450px;
+    float: right;
+    border-radius: 50%;
+    box-shadow: 2px 2px 16px black;
+}
+table,th,td{
+    border:1px solid greenyellow;
+
+}
+table{
+    float: right;
+    height: 50%;
+    width: 50%;
+    transform: translate(-50,-50);
+    background-color: indianred;
+    
+
+  }
+  footer{
+    height: 500px;
+    width: 100%;
+    background-color:#80eb34; 
+  }
+  
+
+
