@@ -252,6 +252,44 @@ h4{
      background-size: cover;
      background-position: center;
  }
+ .social {
+    width: 350px;
+    display:block;
+    margin: 0 auto;
+    
+}
+ .social li {
+    
+ vertical-align: top;
+ display: inline;
+ 
+    
+ }
+ .logo-facebook{
+    padding:10px 12px;
+    width:56px;
+    height:56px;
+    
+
+ }
+ .logo-twitter{
+    padding:10px 12px;
+    width:56px;
+    height:56px;
+
+ } 
+ .logo-instagram{
+    padding:10px 12px;
+    width:56px;
+    height:56px;
+
+ }
+ .logo-github{
+    padding:10px 12px;
+    width:56px;
+    height:56px;
+
+ }
  
  
  
