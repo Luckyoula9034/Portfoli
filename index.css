@@ -38,7 +38,7 @@
 
 
 
-a:hover:not(.active){
+.one a:hover:not(.active){
 float:left;
 color:gold;
 }
@@ -130,6 +130,8 @@ table,th,td{
     height: 900px;
     width: 100%;
     background-color:#80eb34; 
+    padding: 0px;
+    margin: 0px;
   }
   .sixth{
       text-align: center;
@@ -142,7 +144,7 @@ table,th,td{
   }
   
   @media screen and (max-width: 650px) {
-    .column {
+    *{
       width: 100%;
       display: block;
     }
@@ -247,12 +249,12 @@ h4{
      padding: 0;
      margin: 0;
  }
- body{
+ /* body{
      background-image: url(https://cdn.dribbble.com/users/73804/screenshots/322200/el.png);
      background-repeat: no-repeat;
      background-size: cover;
      background-position: center;
- }
+ } */
  .social {
     width: 350px;
     display:block;
