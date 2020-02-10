@@ -12,7 +12,7 @@
  * You need to have a github account
  ## Live Link
   - Click to get my Github link
-  -   https://luckyoula9034.github.io/Portfoli/git 
+  -   
  ## Contact Details
   - Email: luckyoula@gmail.com
   - Phone-No:0759099034
